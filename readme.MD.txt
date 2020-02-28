@@ -19,5 +19,5 @@ Path to source data - "/home/ubuntu/George_IR_19305272/Data" (Cranfield collecti
 Format for execution of Trec_Eval:
 
 * Traverse to - "/home/ubuntu/George_IR_19305272/trec_eval-9.0.7" path using 'cd' command
-* trec_eval <QRelsCorrectedforTRECeval> <resultsfile>
-  E.g., trec_eval test/QRelsCorrectedforTRECeval.txt test/results.txt
+* ./trec_eval <QRelsCorrectedforTRECeval> <resultsfile>
+  E.g., ./trec_eval test/QRelsCorrectedforTRECeval.txt  test/results.txt 
